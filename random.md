@@ -1,6 +1,6 @@
 ---
 layout: default
-title: random
+title: Random things
 rank: 3
 ---
 Place to show some random things!
