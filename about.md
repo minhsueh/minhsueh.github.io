@@ -1,6 +1,9 @@
 ---
-layout: default
+layout: page
+title: About
+permalink: /about/
 ---
+
 <center><img src="/assets/images/about/kdd.jpg" height="400"></center>
 <center>KDD 2023</center>
 
