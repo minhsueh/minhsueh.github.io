@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Me
-rank: 3
+title: CV
+rank: 2
 ---
-Yay
+Ho Ho
