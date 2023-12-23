@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Blockchain and Bitcoin
 ---
 This is a highly simplified explanation of *Bitcoin* and *blockchain*. I hope it can provide a general understanding of digital currency. The analogy is illustrated in Figure 1. Each cryptocurrency transaction is recorded in a *block*, paralleling logging transactions in a monthly ledger. Moreover, when multiple *blocks* are interconnected, they form a *blockchain*, akin to aggregating monthly ledgers into a year ledger.
 

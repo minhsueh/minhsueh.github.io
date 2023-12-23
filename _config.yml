@@ -4,3 +4,4 @@ title: "Min-Hsueh's Home"
 # show_downloads: true
 # google_analytics:
 theme: jekyll-theme-minimal
+paginate: 5
