@@ -5,6 +5,6 @@ title: "Min-Hsueh's Home"
 # google_analytics:
 theme: jekyll-theme-minimal
 
-
+date_format: "%b %-d, %Y"
 
 
