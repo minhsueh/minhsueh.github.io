@@ -3,7 +3,7 @@ title: "Min-Hsueh's Home"
 # description: Minimal is a theme for GitHub Pages.
 # show_downloads: true
 # google_analytics:
-theme: jekyll-theme-minimal
+theme: minima
 
 date_format: "%b %d, %Y"
 
