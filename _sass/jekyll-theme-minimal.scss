@@ -104,6 +104,10 @@ img {
   max-width:100%;
 }
 
+#logo_img {
+  border-radius: 50%;
+}
+
 header {
   width:230px;
   float:left;
@@ -196,9 +200,6 @@ footer {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
-#logo_img {
-  border-radius: 50%;
-}
 
 @media print, screen and (max-width: 960px) {
 
