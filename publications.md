@@ -3,7 +3,8 @@ layout: default
 title: Publications
 rank: 1
 ---
-●	**Min-Hsueh Chiu**, Mayank Kejriwal. A Model and Structural Analysis of Networked Bitcoin Transaction Flows. Conference on Complex Networks. 2024<br>
+●	<img src="/assets/images/publications/btc.jpg">
+**Min-Hsueh Chiu**, Mayank Kejriwal. A Model and Structural Analysis of Networked Bitcoin Transaction Flows. Conference on Complex Networks. 2024<br>
 ●	Mayank Kejriwal, Hamid Haidarian, **Min-Hsueh Chiu**, Andy Xiang, Deep Shrestha, Faizan Javed. A Knowledge Graph-Based Search Engine for Robustly Finding Doctors and Locations in the Healthcare Domain. Poster presented at: Knowledge Discovery and Data Mining Conference; August 2023; Long Beach, CA<br>
 ●	Yao-Chun Wang, Jun-Fu Zhang, **Min-Hsueh Chiu**, Jia-Han Li, Chia-Yung Jui, Te-Hsun Yang, Wen-Jay Lee, Molecular-weight and cooling-rate dependence of polymer thermodynamics in molecular dynamics simulation, Polymer Journal, 2021, DOI: 10.1038/s41428-020-00443-1<br>
 ●	**Min-Hsueh Chiu**, Jia-Han Li, Tadaaki Nagao, Optical properties of Au-based and Pt-based alloys for infrared device applications: a combined first principle and electromagnetic simulation study, Micromachine, 2019, DOI:10.3390/mi10010073<br>
