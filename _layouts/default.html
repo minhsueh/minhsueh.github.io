@@ -28,7 +28,7 @@
 
         {% if site.social_links %}
           {%- for social_media in site.social_links -%}
-            {% if social_media == "email" %}
+            {% if social_media == 'email' %}
               <a href="mailto:{{ social_media.user_url }}" target="_blank" title="Email me">
                 <img class="social_media_icon" src="/assets/social_media/{{ social_media.platform }}.png" />
               </a>
