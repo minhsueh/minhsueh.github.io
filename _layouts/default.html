@@ -28,9 +28,15 @@
 
         {% if site.social_links %}
           {%- for social_media in site.social_links -%}
-            <a href="{{ social_media.user_url }}" target="_blank" title="{{ social_media.platform }}">
-              <img class="social_media_icon" src="/assets/social_media/{{ social_media.platform }}.png" />
-            </a>
+            {% if social_media == "email" %}
+              <a href="mailto:{{ social_media.user_url }}" target="_blank" title="Email me">
+                <img class="social_media_icon" src="/assets/social_media/{{ social_media.platform }}.png" />
+              </a>
+            {% else %}
+              <a href="{{ social_media.user_url }}" target="_blank" title="{{ social_media.platform }}">
+                <img class="social_media_icon" src="/assets/social_media/{{ social_media.platform }}.png" />
+              </a>
+            {% endif %}
           {%- endfor -%}
         <!-- <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p> -->
         {% endif %}
