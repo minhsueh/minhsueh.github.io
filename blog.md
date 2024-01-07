@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Blog
-rank: 0
+rank: 2
 ---
 <ul>
   {% for post in site.posts %}
