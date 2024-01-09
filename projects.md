@@ -9,7 +9,9 @@ rank: 0
 &emsp;Supported by the <a href="https://www.darpa.mil/program/science-of-artificial-intelligence-and-learning-for-open-world-novelty">Defence Advanced Research Projects Agency (DARPA)</a>, our initiative focuses on designing different novelties and novelty generators for Monopoly.
 <br>
 &emsp;<strong>As a human, can you detect the novelty in the above animation?</strong> </p> 
+<!---
 1. Open-monopoly
 2. Open-poker
 3. auto-clicking
 4. auto-VASP
+-->
