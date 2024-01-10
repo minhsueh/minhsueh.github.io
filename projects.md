@@ -20,6 +20,7 @@ rank: 0
 <h1 style='text-align: center;'>auto VASP</h1>
 <a href="https://github.com/minhsueh/autoVASP"><img class="project_img" style="float: left;" src="/assets/images/projects/autoVASP.jpg"></a>
 <p style='text-align: justify;'> During the research on alloy material simulation, extensive calculations are required for various compositions and atomic ratios. While these calculations share similarities, they differ slightly in aspects such as atoms, atom positions, and atom potentials. To ensure systematic and consistent input parameters for the Vienna Ab initio Simulation Package (VASP), I developed scripts designed for routine tasks, including structure relaxation, optical properties calculation, and post-processing analysis. These scripts are configured to meet the workload system requirements of the Portable Batch System (PBS), where typically one job is allocated to 8 CPUs and 4 Nodes based on time and memory specifications. 
+<br>
 &emsp;The scripts were successfully deployed on the supercomputer <a href="https://www.nchc.org.tw/Page?itemid=58&mid=109">Taiwania 1</a> in 2018, the result of which is shown in the figure above. Their architecture renders them compatible with implementation on various high-performance computing servers. Furthermore, <strong>this project signifies an initial step towards exploring active learning methodologies in material science</strong>.</p> 
 
 
