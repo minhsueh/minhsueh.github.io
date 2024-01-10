@@ -11,7 +11,7 @@ rank: 0
 &emsp;<strong>As a human, can you detect the novelty in the above animation?</strong> </p> 
 
 <a href="https://github.com/minhsueh/gym-open-poker"><img class="project_img" style="float: left;" src="/assets/images/projects/poker.gif"></a> 
-<p style='text-align: justify;'> As AI advances, the limitations imposed by closed-world environments hinder its practical application in the dynamic reality of the open world. I have developed a Poker simulator utilizing <a href="https://gymnasium.farama.org/index.html">Gymnasium</a>, a standardized API for reinforcement learning to bring attention to the challenges posed by open-world scenarios within the broader AI community. Leveraging the widespread interest in poker and the adoption of a standardized API, this initiative aims to garner wide acceptance within the AI community for addressing the complexities of open-world challenges. </p> 
+<p style='text-align: justify;'> As AI advances, the limitations imposed by closed-world environments hinder its practical application in the dynamic reality of the open world. I have developed a Poker simulator utilizing <a href="https://gymnasium.farama.org/index.html">Gymnasium</a>, a standardized API for reinforcement learning to bring attention to the challenges posed by open-world scenarios within the broader AI community. Leveraging the widespread interest in poker and the adoption of a standardized API, <strong>this initiative aims to achieve widespread acceptance within the AI community for addressing the complexities of open-world challenges</strong>. </p> 
 
 <a href="https://github.com/minhsueh/autoVASP"><img class="project_img" style="float: left;" src="/assets/images/projects/autoVASP.jpg"></a>
 
