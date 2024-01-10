@@ -3,6 +3,8 @@ layout: default
 title: Projects
 rank: 0
 ---
+<h3>Open World challenge</h3>
+<h4>Monopoly</h4>
 <a href="https://github.com/mayankkejriwal/GNOME-p3"><img class="project_img" style="float: left;" src="/assets/images/projects/monopoly.gif"></a> 
 <p style='text-align: justify;'> Embarking on the forefront of artificial intelligence, our project delves into the formidable realm of the open world—a significant challenge for current AI systems. Unlike closed environments defined by expert definitions and programming constraints, the open world is characterized by implicit and explicit unknowns, presenting an immediate challenge that could potentially overwhelm AI systems. The overarching question driving our endeavors is <strong>whether AI can conquer the open world</strong>?
 <br>
@@ -10,11 +12,13 @@ rank: 0
 <br>
 &emsp;<strong>As a human, can you detect the novelty in the above animation?</strong> </p> 
 
+<h4>gym-open-poker</h4>
 <a href="https://github.com/minhsueh/gym-open-poker"><img class="project_img" style="float: left;" src="/assets/images/projects/poker.gif"></a> 
 <p style='text-align: justify;'> As AI advances, the limitations imposed by closed-world environments hinder its practical application in the dynamic reality of the open world. I have developed a Poker simulator utilizing <a href="https://gymnasium.farama.org/index.html">Gymnasium</a>, a standardized API for reinforcement learning to bring attention to the challenges posed by open-world scenarios within the broader AI community. Leveraging the widespread interest in poker and the adoption of a standardized API, <strong>this initiative aims to achieve widespread acceptance within the AI community for addressing the complexities of open-world challenges</strong>. </p> 
 
-<a href="https://github.com/minhsueh/autoVASP"><img class="project_img" style="float: left;" src="/assets/images/projects/autoVASP.jpg"></a>
 
+<h4>auto VASP</h4>
+<a href="https://github.com/minhsueh/autoVASP"><img class="project_img" style="float: left;" src="/assets/images/projects/autoVASP.jpg"></a>
 <p style='text-align: justify;'> During the research on alloy material simulation, extensive calculations are required for various compositions and atomic ratios. While these calculations share similarities, they differ slightly in aspects such as atoms, atom positions, and atom potentials. To ensure systematic and consistent input parameters for the Vienna Ab initio Simulation Package (VASP), I developed scripts designed for routine tasks, including structure relaxation, optical properties calculation, and post-processing analysis. These scripts are configured to meet the workload system requirements of the Portable Batch System (PBS), where typically one job is allocated to 8 CPUs and 4 Nodes based on time and memory specifications. 
 &emsp;The scripts were successfully deployed on the supercomputer <a href="https://www.nchc.org.tw/Page?itemid=58&mid=109">Taiwania 1</a> in 2018, the result of which is shown in the figure above. Their architecture renders them compatible with implementation on various high-performance computing servers. Furthermore, <strong>this project signifies an initial step towards exploring active learning methodologies in material science</strong>.</p> 
 
