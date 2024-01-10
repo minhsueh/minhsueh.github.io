@@ -3,7 +3,7 @@ layout: default
 title: Projects
 rank: 0
 ---
-<h1 style='text-align: center;'>Open World challenge</h1>
+<h1 style='text-align: center;'>Open World challenges</h1>
 <h3>Monopoly</h3>
 <a href="https://github.com/mayankkejriwal/GNOME-p3"><img class="project_img" style="float: left;" src="/assets/images/projects/monopoly.gif"></a> 
 <p style='text-align: justify;'> Embarking on the forefront of artificial intelligence, our project delves into the formidable realm of the open world—a significant challenge for current AI systems. Unlike closed environments defined by expert definitions and programming constraints, the open world is characterized by implicit and explicit unknowns, presenting an immediate challenge that could potentially overwhelm AI systems. The overarching question driving our endeavors is <strong>whether AI can conquer the open world</strong>?
