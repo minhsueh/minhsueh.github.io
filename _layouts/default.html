@@ -28,7 +28,7 @@
         {% endif %}
 
         {% if site.social_links %}
-          <p class="social_media_p">
+          <div class="social_media_p">
           {%- for social_media in site.social_links -%}
 
             {% if social_media.platform == 'email' %}
@@ -41,7 +41,7 @@
               </a>
             {% endif %}
           {%- endfor -%}
-          </p>
+          </div>
         <!-- <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p> -->
         {% endif %}
 
@@ -53,7 +53,7 @@
         </ul>
         {% endif %}
         {% assign sorted = site.html_pages | sort:"rank" %}
-        <p class="page_p">
+        <div class="page_p">
         {% for item in sorted %}
           {% if item.path != "index.md" and item.title and item.rank %}
             <li>
@@ -62,7 +62,7 @@
             </li>
           {% endif %}
         {% endfor %}
-        </p>
+        </div>
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
