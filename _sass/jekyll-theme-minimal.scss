@@ -241,6 +241,9 @@ footer {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
+.social_media_p{
+  text-align:center;
+}
 
 .social_media_icon{
   width:30px;
@@ -248,13 +251,7 @@ footer {
   display:inline-block;
 }
 
-.social_media_p{
-  text-align:center;
-}
-.page_p{
-  margin-left: auto;
-  margin-right: auto;
-}
+
 
 @media print, screen and (max-width: 960px) {
 
@@ -328,6 +325,14 @@ footer {
   .page_p{
     margin-left: auto;
     margin-right: auto;
+  }
+  .page_p{
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .page_link{
+    display:inline-block;
   }
 }
 
