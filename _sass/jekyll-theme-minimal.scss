@@ -105,6 +105,7 @@ img {
 */
 
 .publication_img{
+  display:block;
   width:300px;
   height:200px;
 }
@@ -271,8 +272,7 @@ footer {
 
   .publication_img{
     display:block;
-    width: 100%;
-    max-width: 100%;
+    width: 80%;
   }
 
   .project_img{
