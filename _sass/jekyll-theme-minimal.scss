@@ -134,6 +134,9 @@ img {
   height: 230px;
   width: 230px;
   border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 header {
@@ -233,6 +236,9 @@ footer {
 .social_media_icon{
   width:30px;
   height:30px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 @media print, screen and (max-width: 960px) {
