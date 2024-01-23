@@ -54,7 +54,7 @@
         {% for item in sorted %}
           {% if item.path != "index.md" and item.title and item.rank %}
             <li>
-              <a style='text-align: center;' href="{{ site.baseurl }}/{{ item.path | replace:'.md','.html' }}">{{ item.title }}</a>
+              <p style='text-align: center;' ><a href="{{ site.baseurl }}/{{ item.path | replace:'.md','.html' }}">{{ item.title }}</a></p>
               <!-- <span> [ {{ item.path }} - {{ item.title }} - {{ item.rank }} ] </span> -->
             </li>
           {% endif %}
