@@ -106,10 +106,10 @@ img {
 */
 
 .publication_img{
-  display:block;
-  width:300px;
-  height:auto;
+  object-fit: fill;
+  width: 80%;
 }
+
 
 .project_img{
   width:600px;
