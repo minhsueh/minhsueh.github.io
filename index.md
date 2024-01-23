@@ -6,4 +6,4 @@ My name is Min-Hsueh Chiu, and I work at the University of Southern California /
 </p>
 
 
-<img src="/assets/images/about/peter_summary_2024.png" width="600px">
+<img class="index_img" src="/assets/images/about/peter_summary_2024.png">
