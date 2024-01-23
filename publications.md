@@ -29,7 +29,7 @@ rank: 1
     <th>● Jun-Fu Zhang, <strong>Min-Hsueh Chiu</strong>, Chang-Tsung Hsieh, Tony Wen-Hann Sheu, Jia-Han Li. First-principles study of the optical properties of AA-stacked bilayer graphene. Frontiers in Optics, 2018</th>
   </tr>
   <tr>
-    <th><img class="publication_img" style="float: left;" src="/assets/images/publications/2016_JSAP_OSA.png"></th>
+    <th><img class="publication_img" style="float: left;" src="/assets/images/publications/2016_JSAP_OSA.jpg"></th>
     <th>● <strong>Min-Hsueh Chiu</strong>, Jia-Han Li, Tony Wen-Hann Sheu. Thin films size effect on anisotropy optical properties of gold and silver. The Japan Society of Applied Physics Annual Meetings, 2016</th>
   </tr>
   <tr>
