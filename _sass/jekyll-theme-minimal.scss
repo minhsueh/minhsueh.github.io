@@ -120,6 +120,11 @@ img {
   width:600px;
 }
 
+.cv{
+  width:800;
+  height:800;
+}
+
 
 #logo_img {
   height: 230px;
@@ -270,6 +275,11 @@ footer {
   }
 
   .index_img{
+    max-width: 100%;
+    height: auto;
+  }
+
+  .cv{
     max-width: 100%;
     height: auto;
   }
