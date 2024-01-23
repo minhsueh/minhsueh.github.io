@@ -121,10 +121,14 @@ img {
 }
 
 .cv{
-  width:800;
-  height:800;
+  width:600px;
+  height:auto;
 }
 
+.blog_img{
+  width:600px;
+  height:auto;
+}
 
 #logo_img {
   height: 230px;
@@ -281,6 +285,11 @@ footer {
   }
 
   .cv{
+    max-width: 100%;
+    height: auto;
+  }
+
+  .blog_img{
     max-width: 100%;
     height: auto;
   }
