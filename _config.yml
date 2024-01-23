@@ -8,7 +8,7 @@ date_format: "%b %d, %Y"
 
 social_links:
   - { platform: email,          user_url: "peter810601@gmail.com" }
-  - { platform: github,         user_url: "https://github.com/jekyll/minima" }
+  - { platform: github,         user_url: "https://github.com/minhsueh" }
   - { platform: linkedin,       user_url: "https://www.linkedin.com/in/minhsuehchiu" }
   - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=snc23rAAAAAJ&hl=zh-TW" }
   - { platform: medium,         user_url: "https://medium.com/@minhsueh" }
