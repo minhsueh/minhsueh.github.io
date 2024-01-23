@@ -225,7 +225,7 @@ footer {
   height:30px;
 }
 
-@media {
+@media print, screen {
 
   div.wrapper {
     width:auto;
@@ -261,14 +261,17 @@ footer {
 
   .publication_img{
     max-width: 100%;
+    height: auto;
   }
 
   .project_img{
     max-width: 100%;
+    height: auto;
   }
 
   .index_img{
     max-width: 100%;
+    height: auto;
   }
 }
 
