@@ -270,9 +270,9 @@ footer {
   }
 
   .publication_img{
-    width: 50%;
-    max-width: 50%;
-    height: auto;
+    display:block;
+    width: 100%;
+    max-width: 100%;
   }
 
   .project_img{
