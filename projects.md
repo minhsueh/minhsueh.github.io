@@ -5,7 +5,7 @@ rank: 0
 ---
 <h1 style='text-align: center;'>Open World challenges</h1>
 <h3>Monopoly</h3>
-<div class="project_img"><a href="https://github.com/mayankkejriwal/GNOME-p3"><img class="project_img" style="float: left;" src="/assets/images/projects/monopoly.gif"></a></div>
+<div><a href="https://github.com/mayankkejriwal/GNOME-p3"><img class="project_img" style="float: left;" src="/assets/images/projects/monopoly.gif"></a></div>
 <p style='text-align: justify;'> Embarking on the forefront of artificial intelligence, our project delves into the formidable realm of the open world—a significant challenge for current AI systems. Unlike closed environments defined by expert definitions and programming constraints, the open world is characterized by implicit and explicit unknowns, presenting an immediate challenge that could potentially overwhelm AI systems. The overarching question driving our endeavors is <strong>whether AI can conquer the open world</strong>?
 <br>
 &emsp;This project was supported by the <a href="https://www.darpa.mil/program/science-of-artificial-intelligence-and-learning-for-open-world-novelty">Defence Advanced Research Projects Agency (DARPA)</a>, aiming to develop an AI system capable of detecting and adapting to novel situations swiftly. My primary contribution involves the design of an automatic novelty generator intended for the creation of impactful novelties. This architectural framework exhibits adaptability to various dynamic programming languages.
