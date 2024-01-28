@@ -6,11 +6,11 @@ rank: 1
 <table>
   <tr>
     <td class="image-cell"><img class="publication_img" style="float: left;" src="/assets/images/publications/2023_btc.png"></td>
-    <td class="author-cell">● <strong>Min-Hsueh Chiu</strong>, Mayank Kejriwal. A Model and Structural Analysis of Networked Bitcoin Transaction Flows. Conference on Complex Networks. 2024</td>
+    <td class="author-cell">● <strong>Min-Hsueh Chiu</strong>, Mayank Kejriwal. A Model and Structural Analysis of Networked Bitcoin Transaction Flows. Conference on Complex Networks, 2024</td>
   </tr>
   <tr>
     <td class="image-cell"><img class="publication_img" style="float: left;" src="/assets/images/publications/2023_KP_KDD.png"></td>
-    <td class="author-cell">● Mayank Kejriwal, Hamid Haidarian, <strong>Min-Hsueh Chiu</strong>, Andy Xiang, Deep Shrestda, Faizan Javed. A Knowledge Graph-Based Search Engine for Robustly Finding Doctors and Locations in tde Healtdcare Domain. Poster presented at: Knowledge Discovery and Data Mining Conference; August 2023; Long Beach, CA</td>
+    <td class="author-cell">● Mayank Kejriwal, Hamid Haidarian, <strong>Min-Hsueh Chiu</strong>, Andy Xiang, Deep Shrestda, Faizan Javed. A Knowledge Graph-Based Search Engine for Robustly Finding Doctors and Locations in the Healtdcare Domain. Knowledge Discovery and Data Mining Conference, 2023</td>
   </tr>
   <tr>
     <td class="image-cell"><img class="publication_img" style="float: left;" src="/assets/images/publications/2021_MD.png"></td>
