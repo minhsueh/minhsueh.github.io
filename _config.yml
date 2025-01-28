@@ -13,9 +13,15 @@ social_links:
   - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=snc23rAAAAAJ&hl=zh-TW" }
   - { platform: medium,         user_url: "https://medium.com/@minhsueh" }
 
+defaults:
+  - scope:
+      path: "_random"  # Applies to the `_random` collection
+    values:
+      category: "uncategorized"  # Default value for the new key
+
 collections:
   random:
     output: true
-    permalink: /random/:title/
+    permalink: /random/:category/:title/
 
 
