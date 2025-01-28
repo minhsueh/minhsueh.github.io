@@ -18,9 +18,4 @@ collections:
     output: true
     permalink: /random/:category/:title/
 
-defaults:
-  - scope:
-      path: "_random"
-    values:
-      layout: post
 
