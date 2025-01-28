@@ -16,6 +16,6 @@ social_links:
 collections:
   random:
     output: true
-    permalink: /random/:category/:title/
+    permalink: /random/:title/
 
 
