@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Random things
+permalink: /random/
 rank: 4
 ---
 <!---
