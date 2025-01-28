@@ -15,5 +15,6 @@ social_links:
 
 collections:
   random:
-    output: true # Ensures the collection is rendered as part of the site
-    permalink: /random/:title/ # Defines how URLs are generated for this collection
+    output: true
+    permalink: /random/:category/:title/
+
