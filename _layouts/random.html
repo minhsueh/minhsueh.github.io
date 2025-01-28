@@ -1,0 +1,36 @@
+---
+layout: default
+---
+
+{{ content }}
+<ul>
+  {% assign categories = site.random | group_by: "category" %}
+  {% for category in categories %}
+    <h2>{{ category.name | capitalize }}</h2> <!-- Category Name -->
+    <ul>
+      {% for post in category.items %}
+        <li>
+          <span class="post-meta">{{ post.date | date: site.date_format }}</span> <!-- Post Date -->
+          <h3>
+            <a class="post-link" href="{{ post.url | relative_url }}">
+              {{ post.title | escape }}
+            </a>
+          </h3>
+          {%- if site.show_excerpts -%}
+            {{ post.excerpt }}
+          {%- endif -%}
+        </li>
+      {% endfor %}
+    </ul>
+  {% endfor %}
+</ul>
+
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+  <script src="https://utteranc.es/client.js"
+      repo="minhsueh/minhsueh.github.io"
+      issue-term="pathname"
+      theme="github-light"
+      crossorigin="anonymous"
+      async>
+  </script>
+</article>
