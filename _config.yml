@@ -12,3 +12,8 @@ social_links:
   - { platform: linkedin,       user_url: "https://www.linkedin.com/in/minhsuehchiu" }
   - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=snc23rAAAAAJ&hl=zh-TW" }
   - { platform: medium,         user_url: "https://medium.com/@minhsueh" }
+
+collections:
+  random:
+    output: true # Ensures the collection is rendered as part of the site
+    permalink: /random/:title/ # Defines how URLs are generated for this collection
