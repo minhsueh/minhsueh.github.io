@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: Insights and Reflections on Knowledge Graph Construction at DoorDash
+tags: [DoorDash, Knowledge Graph, LLMs]
 ---
 # Knowledge Graph: A Brief Overview and Creation Guide
 
