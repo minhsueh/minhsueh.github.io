@@ -4,15 +4,28 @@
 @import "jekyll-theme-minimal";
 
 
+body {
+  margin: 0;
+  display: flex;
+  height: 100vh;
+}
+
 header {
-  width: 30%; /* Sidebar takes 30% of the screen width */
-  min-width: 250px; /* Ensure it doesn't shrink too much */
-  max-width: 350px; /* Prevent it from growing too large */
+  width: 30%;
+  min-width: 250px;
+  max-width: 350px;
+  background-color: #f4f4f4;
+  padding: 20px;
   position: fixed;
+  left: 0; /* Ensure it sticks to the left */
+  top: 0;
+  bottom: 0;
+  overflow-y: auto; /* Allows scrolling if content is too long */
 }
 
 section {
-  width: 70%; /* Main content takes 70% of the screen width */
-  margin-left: 30%; /* Prevent content from overlapping with the fixed sidebar */
+  width: calc(100% - 30%); /* Adjust based on the header width */
+  margin-left: 30%; /* Push content to the right of the fixed sidebar */
   padding: 20px;
+  box-sizing: border-box;
 }
