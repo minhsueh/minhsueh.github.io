@@ -3,29 +3,3 @@
 
 @import "jekyll-theme-minimal";
 
-
-body {
-  margin: 0;
-  display: flex;
-  height: 100vh;
-}
-
-header {
-  width: 30%;
-  min-width: 250px;
-  max-width: 350px;
-  background-color: #f4f4f4;
-  padding: 20px;
-  position: fixed;
-  left: 0; /* Ensure it sticks to the left */
-  top: 0;
-  bottom: 0;
-  overflow-y: auto; /* Allows scrolling if content is too long */
-}
-
-main {
-  flex-grow: 1; /* Allows section to take remaining space */
-  padding: 20px;
-  box-sizing: border-box;
-  margin-left: 30%; /* Ensure content starts after the sidebar */
-}
