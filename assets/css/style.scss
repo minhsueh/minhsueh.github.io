@@ -2,3 +2,29 @@
 ---
 
 @import "jekyll-theme-minimal";
+
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  height: 100%;
+  width: 100%;
+}
+
+.sidebar {
+  width: 30%;
+  background-color: #f4f4f4;
+  padding: 5%;
+  box-sizing: border-box;
+}
+
+.content {
+  width: 60%;
+  padding: 5%;
+  box-sizing: border-box;
+}
