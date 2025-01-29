@@ -24,8 +24,8 @@ header {
 }
 
 section {
-  width: calc(100% - 30%); /* Adjust based on the header width */
-  margin-left: 30%; /* Push content to the right of the fixed sidebar */
+  flex-grow: 1; /* Allows section to take remaining space */
   padding: 20px;
   box-sizing: border-box;
+  margin-left: 30%; /* Ensure content starts after the sidebar */
 }
