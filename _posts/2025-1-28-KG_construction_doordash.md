@@ -16,17 +16,17 @@ This process is called **Named-Entity Recognition (NER)**.
 
 1. **Brute Force (Manual Annotation)**
    - Manually labeling entities in the dataset.
-   - **Cons**:
+   - Cons:
      - Not scalable.
      - Costly and inefficient.
-     - **Not recommended** for DoorDash, which processes large amounts of input data daily.
+     - **Not recommended** at DoorDash, which processes large amounts of input data daily.
 
 2. **String Matching + Classifier**
    - Uses string matching combined with a classifier to verify if an entity passes a defined threshold.
-   - **Pros**:
+   - Pros:
      - High precision.
      - Decent coverage.
-   - **Cons**:
+   - Cons:
      - Only work for obvious patterns.
 
 There are some more classic ways to perform entity extraction, but what if we leverage **LLMs** to assist us? LLMs have contextual and semantic understanding that can improve the process.
@@ -38,14 +38,14 @@ What if we need additional attributes with deeper meanings that are not explicit
 
 4. **Few-Shot Prompting via Embedding Similarity**
    - Retrieve similar but labeled products using **embedding similarity**.
-   - Use **few-shot prompting** to guide the LLM based on known examples.
+   - Use **few-shot prompting** to guide the LLM based on known examples and labeled attributes.
 
 5. **LLM Reasoning**
    - Make the LLM "think" and deduce results.
-   - **Example**: An LLM could analyze a product's packaging photo and infer whether it is organic.
+   - Example: An LLM could analyze a product's packaging photo and infer whether it is organic.
 
 6. **LLM Agent**
-   - A specialized software system with an **LLM core** and **Pre-defined goals** and characteristics.
+   - A specialized software system with an LLM core and Pre-defined goals and characteristics.
    - We can use it to autonomously perform specific tasks.
 
 
