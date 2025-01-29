@@ -14,14 +14,14 @@ In this post, I want to briefly talk about how to create a knowledge graph. At D
 
 This process is called **Named-Entity Recognition (NER)**.
 
-1. **Brute Force (Manual Annotation)**
+- **Brute Force (Manual Annotation)**
    - Manually labeling entities in the dataset.
    - Cons:
      - Not scalable.
      - Costly and inefficient.
-     - **Not recommended** at DoorDash, which processes large amounts of input data daily.
+     - Not recommended at DoorDash, which processes large amounts of input data daily.
 
-2. **String Matching + Classifier**
+- **String Matching + Classifier**
    - Uses string matching combined with a classifier to verify if an entity passes a defined threshold.
    - Pros:
      - High precision.
@@ -31,20 +31,20 @@ This process is called **Named-Entity Recognition (NER)**.
 
 There are some more classic ways to perform entity extraction, but what if we leverage **LLMs** to assist us? LLMs have contextual and semantic understanding that can improve the process.
 
-3. **Using LLMs to Identify Attributes**
+- **Using LLMs to Identify Attributes**
    - Suitable for simple and common attributes such as identifying a product's brand.
 
 What if we need additional attributes with deeper meanings that are not explicitly stated on product labels or descriptions, or specialized attributes unique to this product?
 
-4. **Few-Shot Prompting via Embedding Similarity**
-   - Retrieve similar but labeled products using **embedding similarity**.
-   - Use **few-shot prompting** to guide the LLM based on known examples and labeled attributes.
+- **Few-Shot Prompting via Embedding Similarity**
+   - Retrieve similar but labeled products using embedding similarity.
+   - Usefew-shot prompting to guide the LLM based on known examples and labeled attributes.
 
-5. **LLM Reasoning**
+- **LLM Reasoning**
    - Make the LLM "think" and deduce results.
    - Example: An LLM could analyze a product's packaging photo and infer whether it is organic.
 
-6. **LLM Agent**
+- **LLM Agent**
    - A specialized software system with an LLM core and Pre-defined goals and characteristics.
    - We can use it to autonomously perform specific tasks.
 
