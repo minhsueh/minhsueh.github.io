@@ -23,7 +23,7 @@ header {
   overflow-y: auto; /* Allows scrolling if content is too long */
 }
 
-section {
+main {
   flex-grow: 1; /* Allows section to take remaining space */
   padding: 20px;
   box-sizing: border-box;
