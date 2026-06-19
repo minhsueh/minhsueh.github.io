@@ -4,6 +4,22 @@ title: Publications
 rank: 1
 ---
 <table>
+ <tr>
+    <td class="image-cell"><img class="publication_img" style="float: left;" src="/assets/images/publications/2026_pokerOWL_appl_sci.png"></td>
+    <td class="author-cell">● <strong>Min-Hsueh Chiu</strong>, Navapat Nananukul, and Mayank Kejriwal. PokerOWL: A Multi-Agent Poker Environment for Benchmarking Open-World Learning. Applied Sciences, 2026</td>
+  </tr>
+ <tr>
+    <td class="image-cell"><img class="publication_img" style="float: left;" src="/assets/images/publications/404_not_found.jpg.png"></td>
+    <td class="author-cell">● Miranker, Molly, <strong>Min-Hsueh Chiu</strong>, Mayank Kejriwal, and Alberto Giordano. Applying knowledge graphs: Migrant decedent case trajectories in South Texas. Journal of Forensic Sciences, 2026</td>
+  </tr>
+ <tr>
+    <td class="image-cell"><img class="publication_img" style="float: left;" src="/assets/images/publications/404_not_found.jpg.png"></td>
+    <td class="author-cell">● Miranker, Molly, <strong>Min-Hsueh Chiu</strong>, Mayank Kejriwal, and Alberto Giordano. Knowledge graphing in forensics: Modeling forensic case trajectories using news media. Journal of Forensic Sciences, 2026</td>
+  </tr>
+ <tr>
+    <td class="image-cell"><img class="publication_img" style="float: left;" src="/assets/images/publications/2024_q_learning_ieee.png"></td>
+    <td class="author-cell">● Islam, Shafkat, <strong>Min-Hsueh Chiu</strong>, Trevor Bonjour, Ruy de Oliveira, Bharat Bhargava, and Mayank Kejriwal. A Q-learning Novelty Search Strategy for Evaluating Robustness of Deep Reinforcement Learning in Open-world Environments. IEEE Intelligent Systems, 2024</td>
+  </tr>
   <tr>
     <td class="image-cell"><img class="publication_img" style="float: left;" src="/assets/images/publications/2023_btc.png"></td>
     <td class="author-cell">● <strong>Min-Hsueh Chiu</strong>, Mayank Kejriwal. A Model and Structural Analysis of Networked Bitcoin Transaction Flows. Conference on Complex Networks, 2024</td>

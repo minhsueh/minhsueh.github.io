@@ -2,8 +2,9 @@
 layout: default
 ---
 <p style='text-align: justify;'> 
-I am Min-Hsueh Chiu, currently affiliated with the <a href="https://aicomplex.github.io/index.html">Artificial Intelligence and Complex Systems (AICS) Lab</a> at the Information Sciences Institute, University of Southern California. I collaborate with Professor Mayank Kejriwal in my research endeavors. I am an experienced research engineer with two years of experience in software design, development, maintenance, and data analysis. Highly proficient in Python, machine learning frameworks, and database languages. 
+My name is Min-Hsueh Chiu. I am an engineer working at the intersection of science and engineering, focused on bridging the gap between research and practical application. With experience in both scientific research and software engineering, I serve as a connector between disciplines, helping translate complex scientific requirements into effective engineering solutions while supporting scientific advancement.
+
+I currently work as a Software Engineer at the <a Materials Project href="https://next-gen.materialsproject.org/">, a scientific data platform affiliated with Lawrence Berkeley National Laboratory. My work primarily focuses on developing software infrastructure for materials science simulations, data analysis, and scientific visualization. I collaborate closely with researchers and domain scientists to build tools that support scientific discovery, while ensuring that complex computational workflows are accessible, scalable, and user-friendly.
+
+Previously, I worked as a Research Engineer at the <a href="https://aicomplex.github.io/index.html">Artificial Intelligence and Complex Systems (AICS) Lab</a> at the Information Sciences Institute, University of Southern California. My works focused on interdisciplinary applications of data science and artificial intelligence, including open-world learning, healthcare, and forensic science.
 </p>
-
-
-<img class="index_img" src="/assets/images/about/peter_summary_2024.png">
